@@ -1,6 +1,6 @@
 var ApiBuilder = require('claudia-api-builder')
 var React = require('react')
-var ReactDOMServer = require('react-dom/server');
+var ReactDOMServer = require('react-dom/server')
 var helloWorld = require('./components/hello_world')
 
 var api = new ApiBuilder()
